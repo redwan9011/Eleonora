@@ -3,7 +3,7 @@ import Navbaar from "../Components/Navbar/Navbaar";
 
 const Layout = () => {
     return (
-        <div>
+        <div >
            
          <Navbaar></Navbaar>
            <Outlet></Outlet>

@@ -1,9 +1,13 @@
+import Bannerr from "../../Components/Banner/Bannerr";
+import Footer from "../../Components/Footer/Footer";
+
 
 
 const Home = () => {
     return (
         <div>
-           <h1 className=" text-3xl font-monster">this is home Egale</h1>
+          <Bannerr></Bannerr>
+          <Footer></Footer>
         </div>
     );
 };
