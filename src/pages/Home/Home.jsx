@@ -1,5 +1,6 @@
 import Bannerr from "../../Components/Banner/Bannerr";
-import Footer from "../../Components/Footer/Footer";
+import Foter from "../../Components/Footer/Foter";
+import Slider from "../../Components/Slider/Slider";
 
 
 
@@ -7,7 +8,10 @@ const Home = () => {
     return (
         <div>
           <Bannerr></Bannerr>
-          <Footer></Footer>
+         
+          <Slider></Slider>
+          <Foter></Foter>
+          
         </div>
     );
 };
