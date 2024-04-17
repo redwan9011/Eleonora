@@ -10,7 +10,7 @@ const Bannerr = () => {
         <div className="w-1/2 min-h-full text-center my-auto ">
         <h1 >Welcome</h1>
           <h2 className="text-5xl">Munira Henna designs world</h2>
-       
+       <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga fugit deleniti, rerum doloribus consequuntur possimus nemo, a consectetur asperiores harum architecto nam molestiae, minima provident perferendis vitae modi labore nihil!</p>
         </div>
         
         </div>
