@@ -13,6 +13,7 @@ const Bannerr = () => {
        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga fugit deleniti, rerum doloribus consequuntur possimus nemo, a consectetur asperiores harum architecto nam molestiae, minima provident perferendis vitae modi labore nihil!</p>
         </div>
         <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse quisquam dolorum odit deserunt hic corrupti sunt amet praesentium soluta omnis, vel ratione rerum ipsum dolore maiores consectetur, molestias non commodi.</h2>
+        <h2>sirajum munira apu</h2>
         </div>
       </div>
     </div>
